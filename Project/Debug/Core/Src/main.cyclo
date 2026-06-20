@@ -1,0 +1,8 @@
+../Core/Src/main.c:88:6:Update_7Segment	1
+../Core/Src/main.c:98:6:Set_Motor_Direction	3
+../Core/Src/main.c:112:6:Start_Motor_With_Ramp	2
+../Core/Src/main.c:120:6:Clear_All_Floor_LEDs	1
+../Core/Src/main.c:127:5:main	56
+../Core/Src/main.c:330:6:SystemClock_Config	1
+../Core/Src/main.c:353:13:MX_TIM3_Init	1
+../Core/Src/main.c:378:13:MX_GPIO_Init	1
